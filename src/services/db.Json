@@ -1,0 +1,308 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "joao@email.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "email": "vitor@email.com",
+      "password": "12345678"
+    },
+    {
+      "id": 3,
+      "email": "Juan@email.com",
+      "password": "12345678"
+    },
+    {
+      "email": "eric@gmail",
+      "password": "123123123",
+      "id": 4
+    },
+    {
+      "email": "eric2@gmail",
+      "password": "123123123",
+      "id": 5
+    },
+    {
+      "email": "eric@gmail",
+      "password": "123123123",
+      "id": 6
+    },
+    {
+      "email": "eric@gmail",
+      "password": "123123123",
+      "id": 7
+    },
+    {
+      "email": "joao@email.com",
+      "senha": "12345678",
+      "id": 8
+    },
+    {
+      "email": "joao@email.com",
+      "senha": "12345678",
+      "id": 9
+    },
+    {
+      "email": "joao@email.com",
+      "senha": "12345678",
+      "id": 10
+    },
+    {
+      "email": "joao@email.com",
+      "senha": "12345678",
+      "id": 11
+    }
+  ],
+  "patients": [
+    {
+      "id": "1",
+      "fullName": "Juan Henrique",
+      "gender": "Masculino",
+      "birthdate": "11/08/2000",
+      "cpf": "958.555.555-55",
+      "rg": "958.555.555-55",
+      "maritalStatus": "Solteiro",
+      "phone": "48-98888-7777",
+      "email": "juan@gmail.com",
+      "birthplace": "Florianopolis",
+      "emergencyContact": "48-92222-5555",
+      "allergies": "alergia A, Alergia B",
+      "specialCare": "evitar açucar",
+      "heathInsurance": "Unimed",
+      "insuranceNumber": "1251112",
+      "insuranceValidity": "15/10/2027",
+      "address": {
+        "cep": "8888-000",
+        "city": "Florianopolis",
+        "state": "SC",
+        "Street": "Rua das Goiabas",
+        "number": "32",
+        "complement": "casa",
+        "neighborhood": "centro",
+        "reference": "proximo da UPA"
+      }
+    },
+    {
+      "id": "2",
+      "fullName": "fabio",
+      "gender": "Masculino",
+      "birthdate": "11/08/2000",
+      "cpf": "958.555.555-55",
+      "rg": "958.555.555-55",
+      "maritalStatus": "Solteiro",
+      "phone": "48-98888-7777",
+      "email": "juan@gmail.com",
+      "birthplace": "Florianopolis",
+      "emergencyContact": "48-92222-5555",
+      "allergies": "alergia A, Alergia B",
+      "specialCare": "evitar açucar",
+      "heathInsurance": "Unimed",
+      "insuranceNumber": "1251112",
+      "insuranceValidity": "15/10/2027",
+      "address": {
+        "cep": "8888-000",
+        "city": "Florianopolis",
+        "state": "SC",
+        "Street": "Rua das Goiabas",
+        "number": "32",
+        "complement": "casa",
+        "neighborhood": "centro",
+        "reference": "proximo da UPA"
+      }
+    },
+    {
+      "id": "3",
+      "fullName": "Carlos",
+      "gender": "Masculino",
+      "birthdate": "11/08/2000",
+      "cpf": "958.555.555-55",
+      "rg": "958.555.555-55",
+      "maritalStatus": "Solteiro",
+      "phone": "48-98888-7777",
+      "email": "juan@gmail.com",
+      "birthplace": "Florianopolis",
+      "emergencyContact": "48-92222-5555",
+      "allergies": "alergia A, Alergia B",
+      "specialCare": "evitar açucar",
+      "heathInsurance": "Unimed",
+      "insuranceNumber": "1251112",
+      "insuranceValidity": "15/10/2027",
+      "address": {
+        "cep": "8888-000",
+        "city": "Florianopolis",
+        "state": "SC",
+        "Street": "Rua das Goiabas",
+        "number": "32",
+        "complement": "casa",
+        "neighborhood": "centro",
+        "reference": "proximo da UPA"
+      }
+    },
+    {
+      "fullName": "Eric",
+      "gender": "masculino",
+      "birthdate": "2222-02-22",
+      "cpf": "222.222.222-22",
+      "rg": "2222222222222",
+      "maritalStatus": "solteiro(a)",
+      "phone": "(22) 22222-2222",
+      "email": "teste@gmail.com",
+      "birthplace": "brasil",
+      "emergencyContact": "(22) 22222-2222",
+      "allergies": "n tenho",
+      "specialCare": "n tenho",
+      "healthInsurance": "n tenho",
+      "insuranceNumber": "n tenho",
+      "insuranceValidity": "2211-02-22",
+      "address": {
+        "cep": "88058-000",
+        "city": "Florianópolis",
+        "state": "SC",
+        "street": "Rodovia Armando Calil Bulos",
+        "number": "55",
+        "complement": "n tenho",
+        "neighborhood": "Vargem Grande",
+        "reference": "n tenho"
+      },
+      "id": "z-2Gc3Q"
+    }
+  ],
+  "consults": [
+    {
+      "id": "1",
+      "patientId": "1",
+      "reason": "gripe",
+      "date": "10/05/2025",
+      "time": "15:40",
+      "description": "to gripado, muita dor",
+      "medication": "Benegrip",
+      "dosagePrecaution": "2 vezes ao dia"
+    },
+    {
+      "id": "2",
+      "patientId": "1",
+      "reason": "gripe",
+      "date": "10/05/2025",
+      "time": "15:40",
+      "description": "to gripado, muita dor",
+      "medication": "Benegrip",
+      "dosagePrecaution": "2 vezes ao dia"
+    },
+    {
+      "id": "3",
+      "patientId": "1",
+      "reason": "gripe",
+      "date": "10/05/2025",
+      "time": "15:40",
+      "description": "to gripado, muita dor",
+      "medication": "Benegrip",
+      "dosagePrecaution": "2 vezes ao dia"
+    },
+    {
+      "id": "4",
+      "patientId": "1",
+      "reason": "gripe",
+      "date": "10/05/2025",
+      "time": "15:40",
+      "description": "to gripado, muita dor",
+      "medication": "Benegrip",
+      "dosagePrecaution": "2 vezes ao dia"
+    },
+    {
+      "id": "5",
+      "patientId": "1",
+      "reason": "gripe",
+      "date": "10/05/2025",
+      "time": "15:40",
+      "description": "to gripado, muita dor",
+      "medication": "Benegrip",
+      "dosagePrecaution": "2 vezes ao dia"
+    },
+    {
+      "patientId": "z-2Gc3Q",
+      "reason": "dor",
+      "date": "2025-10-29",
+      "time": "00:32",
+      "description": "dor",
+      "medication": "remedio",
+      "dosagePrecaution": "tomar remedio",
+      "id": "6gLi7F5"
+    },
+    {
+      "patientId": "3",
+      "reason": "dor",
+      "date": "2025-10-29",
+      "time": "22:31",
+      "description": "asd",
+      "medication": "remedio",
+      "dosagePrecaution": "asd",
+      "id": "V8_vaZB"
+    }
+  ],
+  "exams": [
+    {
+      "id": "1",
+      "name": "cardiologico",
+      "data": "12/09/2024",
+      "time": "16:00",
+      "type": "cateterismo",
+      "laboratory": "Santa Luzia",
+      "documentoUrl": "site.com.br/exame.pdf",
+      "results": "dados do exame"
+    },
+    {
+      "id": "2",
+      "name": "cardiologico",
+      "data": "12/09/2024",
+      "time": "16:00",
+      "type": "cateterismo",
+      "laboratory": "Santa Luzia",
+      "documentoUrl": "site.com.br/exame.pdf",
+      "results": "dados do exame"
+    },
+    {
+      "id": "3",
+      "name": "cardiologico",
+      "data": "12/09/2024",
+      "time": "16:00",
+      "type": "cateterismo",
+      "laboratory": "Santa Luzia",
+      "documentoUrl": "site.com.br/exame.pdf",
+      "results": "dados do exame"
+    },
+    {
+      "id": "4",
+      "name": "cardiologico",
+      "data": "12/09/2024",
+      "time": "16:00",
+      "type": "cateterismo",
+      "laboratory": "Santa Luzia",
+      "documentoUrl": "site.com.br/exame.pdf",
+      "results": "dados do exame"
+    },
+    {
+      "patientId": "1",
+      "name": "exame",
+      "data": "2025-11-04",
+      "time": "23:27",
+      "type": "exame",
+      "laboratory": "aleatorio",
+      "documentoUrl": "link",
+      "results": "ruim",
+      "id": "xuTLdB6"
+    },
+    {
+      "name": "exame",
+      "data": "2025-11-04",
+      "time": "21:27",
+      "type": "exame",
+      "laboratory": "aleatorio",
+      "documentoUrl": "link",
+      "results": "ad",
+      "id": "OzZgZB7"
+    }
+  ]
+}
