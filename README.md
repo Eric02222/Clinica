@@ -74,10 +74,10 @@ O coração do sistema médico. Permite o registro e consulta de atendimentos pa
     > **Visualização da Funcionalidade:**
     >
     > *O usuário visualiza o registro e clica no ícone de cópia:*
-    > ![Card de Consulta](./assets/card-consulta.png)
+    > ![Card de Consulta](./src/assets/card-consulta.png)
     >
     > *O sistema confirma a ação visualmente:*
-    > ![Confirmação de Cópia](./assets/card-copiado.png)
+    > ![Confirmação de Cópia](./src/assets/card-copiado.png)
 
 ### 4. Dashboard Administrativo
 Painel inicial que fornece métricas rápidas sobre o estado da clínica (total de pacientes, atendimentos do dia, etc), servindo como ponto de partida para a navegação.
